@@ -1,2 +1,2 @@
 # storyboard
-![Storyboard](https://github.com/your-username/your-repo-name/blob/main/Creatives%20Storyboard.png)
+![Storyboard](https://github.com/darshpl/storyboard-203/blob/main/Creatives%20Storyboard.png)
